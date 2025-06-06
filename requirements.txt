@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+langchain-mongodb
+langchainhub
+pymongo
+PyMuPDFLoader
+python-dotenv
